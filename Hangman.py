@@ -4,8 +4,8 @@ import random
 import time
 from string import ascii_lowercase, ascii_uppercase
 from enum import Enum
-import colorama
-colorama.init()
+# import colorama
+# colorama.init()
 
 
 # # Call one latin lowercase letter
